@@ -1,0 +1,28 @@
+  628  npm init -y
+  629  npm i webpack webpack-cli
+  630  ll
+  631  cd ..
+  632  ll
+  633  cd react-boilerplate
+  634  ll
+  635  npm i webpack webpack-cli
+  636  rm -rf /home/linux/.npm
+  637  sudo rm -rf /home/linux/.npm
+  638  npm i webpack webpack-cli
+  639  npx webpack -d
+  640  npm i html-webpack-plugin
+  641  npx webpack -d
+  642  npm i webpack-dev-server
+  643  npx webpack-dev-server -d
+  644  npm i @babel/core @babel/cli @babel/preset-env
+  645  npx webpack-dev-server -d
+  646  npm i babel-loader
+  647  npm i react react-dom
+  648  npx webpack-dev-server -d
+  649  npm i @babel/preset-react
+  650  npx webpack-dev-server -d
+  651  npm i @babel/plugin-proposal-class-properties
+  652  npx webpack-dev-server -d
+  653  npx webpack -p
+
+https://www.youtube.com/watch?v=oT0gGgqJl1s
